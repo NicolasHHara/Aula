@@ -1,0 +1,48 @@
+body{
+    
+    
+
+    background: radial-gradient(circle, rgba(255,24,7,1) 0%, rgba(222,53,15,0.9613970588235294) 35%, rgba(255,170,10,1) 100%); ;
+}
+h1{
+
+    font-family:fantasy;
+    font-weight: 2000;
+    text-align: center;
+    color: black;
+    text-shadow:2px 2px white;
+}   
+img {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    display:block;
+    
+    
+
+
+
+}
+h2{
+ font-family: fantasy;
+ font-weight: 2000;
+ text-align: center ;
+ color:black;
+ text-shadow:2px 2px whitesmoke;
+}
+
+
+h4{
+    text-align: center;
+    color: white;
+    font-weight:1500 ;
+    text-shadow: black;
+
+}
+a{text-align: center;
+    font-weight: 2000;
+
+}
+
+

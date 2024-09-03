@@ -1,0 +1,78 @@
+form{
+    border: 1px solid black;
+    height: 1000px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.label{ 
+    margin-left: 275px;
+    
+}
+ul{
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.Comida{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.Botao1{
+    margin-top: 20px;
+    margin-left: 325px;
+}
+.Botao2{
+    margin-left: 15px;
+}
+.Botao3{
+    margin-left: 15px;
+}
+#Area{
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#Horario{
+    font-size: large;
+
+}
+#Nome{
+    height: 30px;
+    width: 200px;
+    border: 1px solid black ;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#CorFavorita{
+    height: 30px;
+    width: 50px;
+    border: 1px solid black ;
+    margin-left: 35px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#Date{
+    height: 30px;
+    width: 100px;
+    border: 1px solid black ;
+    margin-left: 85px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#Time{
+    height: 30px;
+    width: 70px;
+    border: 1px solid black ;
+    margin-left: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#Password{
+    height: 30px;
+    width: 70px;
+    border: 1px solid black ;
+    margin-left: 70px;
+    margin-top: 20px;
+    border-radius: 10px;
+}

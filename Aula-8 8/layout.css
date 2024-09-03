@@ -1,0 +1,132 @@
+header{
+    width: 100%;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius:20px;
+    border: 3px solid black;
+    background-image: url(https://www.dicasdetreino.com.br/wp-content/uploads/2017/08/Arnold-Schwarzenegger.jpg);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    width: 100%;
+    height: 900px;
+    display: block;
+    float: left;
+}
+main p{ 
+    margin-right: 100px;
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 20px;
+
+}
+footer p{ 
+    margin: 10px;
+    font-size: medium;
+    margin-bottom: 20px;
+}
+footer{
+    width: 100%;
+    height: 900px;
+    display: block;
+    float: left;
+    background-color: aliceblue;
+}
+footer section{
+    width: 33.3%;
+    height: 900px;
+    float: left;
+    display: block;
+}
+footer section:first-child{
+    height: 900px;
+    width: 33.3%;
+    float: left;
+}
+footer section:last-child{  
+    height: 900px;
+    width: 33.3%;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 120px;
+    font-size: 60px;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 750px;
+    width: 500px;
+    float: left;
+}
+#img2{
+    height: 300px;
+    width: 90%;
+    margin: 5%;
+}
+#img3{
+    height: 300px;
+    width: 90%;
+    margin: 5%;
+    margin-top: -20px;
+}
+#img4{
+    height: 300px;
+    width: 90%;
+    margin: 5%;
+    margin-top: -2px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+}
+h5{
+    text-align: center;
+    font-size: 30px; 
+}
+.Botao1{
+    height: 100px;
+    width: 90%;
+    margin-top: 20px;
+    margin-left: 5%;
+    border-radius: 20px;
+    border:2px solid black;
+    cursor: pointer;
+    background-color: crimson;
+}
+.Botao2{
+    height: 100px;
+    width: 90%;
+    margin-top: 75px;
+    margin-left: 5%;
+    border-radius: 20px;
+    border:2px solid black;
+    cursor: pointer;
+    background-color: crimson;
+
+}
+.Botao3{
+    height: 100px;
+    width: 90%;
+    margin-top: 40px;
+    margin-left: 5%;
+    border-radius: 20px;
+    border:2px solid black;
+    cursor: pointer;
+    background-color: crimson;
+}
